@@ -1,4 +1,4 @@
-# Hello-World
+# Cyber Security Journey 
 
 
 Hello, my name is Gian LaManno and I am currently attending SecureSet a Cybersecurity Bootcamp in Denver, Colorado 
